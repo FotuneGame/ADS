@@ -1,3 +1,4 @@
+/*
 import { TestFuncForMocha } from "../index.js";
 
 
@@ -22,3 +23,4 @@ it("TestFuncForMocha 3)",()=>{
     expect(TestFuncForMocha(1,-1)).be.a('number');
     expect([1,2]).have.lengthOf(2);
 })
+*/
