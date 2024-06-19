@@ -1,1 +1,3 @@
-console.log("hello!");
+export function TestFuncForMocha(a,b){
+    return a+b;
+}
